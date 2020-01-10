@@ -1,0 +1,27 @@
+*{
+    margin: 0px auto;
+}
+label{
+    color: rgb(211, 37, 211);
+}
+.form-group{
+    margin-top: 100px;
+    background-color: rgb(128, 132, 133);
+    padding: 20px;
+    width: 500px;
+}
+.chatroom{
+    margin-top: 10px;
+    background-color: rgb(180, 209, 235);
+    padding: 20px;
+    width: 500px;
+}
+#messages{
+    background-color: aliceblue;
+    max-height: 250px;
+    min-height: 250px;
+    margin-bottom: 10px;
+}
+ul{
+    color: darkred;
+}
